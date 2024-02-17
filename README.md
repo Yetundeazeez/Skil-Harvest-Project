@@ -19,7 +19,7 @@ This section query the sales rep whose items are pen set and binder
 =QUERY(A1:H44,"SELECT B,C WHERE C='Pen Set', OR C='Binder'", 1)
 ```
 ## Result
-![Download here](Table-1.JPG)
+![Download here](Table_1.JPG)
 
 ---
 
