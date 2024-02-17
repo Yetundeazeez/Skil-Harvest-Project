@@ -20,7 +20,7 @@ This section query the sales rep whose items are pen set and binder
 ```
 ## Result
 
-![Download here](Table-1.JPG)
+![Download here](Table_1.JPG)
 ---
 
 ## Query 2
