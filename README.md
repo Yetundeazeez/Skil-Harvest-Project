@@ -30,7 +30,7 @@ This section query the sales of binder items and pencil in 2015
 =QUERY(A1:H44,"SELECT C,F,H WHERE (C='Pencil', OR C='Binder') AND F=2015", 1)
 ```
 ## Result
-![Download here](Table-2.JPG)
+![Download here](Table2.JPG)
 
 ---
 
