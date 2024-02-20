@@ -1,4 +1,5 @@
 # Google Query Project
+This project was done using Google sheet
 ---
 
 ## **Project Outline**
