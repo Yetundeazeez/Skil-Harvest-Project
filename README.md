@@ -20,7 +20,6 @@ This section query the sales rep whose items are pen set and binder
 ```
 
 ## Result
-
 ![Download here](Table1.JPG)
 
 ---
@@ -75,9 +74,7 @@ This section query the sales of items that end with ‘sk’, include their regi
 ```
 =QUERY(A1:H44,"SELECT A,B,C,F,H WHERE C LIKE '%sk'", 1)
 ```
-##Result
+## Result
 ![Download here](Table6.JPG)
 
 ---
-
-## Results
