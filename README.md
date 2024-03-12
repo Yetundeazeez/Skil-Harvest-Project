@@ -1,9 +1,8 @@
-# Google Query Project
-This project was done using Google sheet 
+# Google Query Project 
 ---
 
 ## **Project Outline**
-
+- [Project Overview](#Project-Overview)
 - [Dataset](#Dataset)
 - [Query 1](#Query-1)
 - [Query 2](#Query-2)
@@ -11,7 +10,11 @@ This project was done using Google sheet
 - [Query 4](#Query-4)
 - [Query 5](#Query-5)
 - [Query 6](#Query-6)
-- [Tools used](#Tools-used)
+- [Tools used](#Tools-Used)
+
+---
+
+## Project Overview
 
 ---
 ## Dataset
@@ -89,7 +92,7 @@ This section query the sales of items that end with ‘sk’, include their regi
 
 ---
 
-## Tools used
+## Tools Used
 
 This project was done using Google Sheet
 
