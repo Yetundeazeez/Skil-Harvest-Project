@@ -22,7 +22,7 @@ This section query the sales rep whose items are pen set and binder
 ```
 
 ## Result
-![Download here](Table1.JPG)
+![](Table1.JPG)
 
 ---
 
@@ -33,7 +33,7 @@ This section query the sales of binder items and pencil in 2015
 =QUERY(A1:H44,"SELECT C,F,H WHERE (C='Pencil', OR C='Binder') AND F=2015", 1)
 ```
 ## Result
-![Download here](Table2.JPG)
+![](Table2.JPG)
 
 ---
 
@@ -44,7 +44,7 @@ This section query the sales in Central and East region in 2014
 =QUERY(A1:H44,"SELECT A,F,H WHERE (C='Central', OR C='East') AND F=2014", 1)
 ```
 ## Result
-![Download here](Table3.JPG)
+![](Table3.JPG)
 
 ---
 
@@ -55,7 +55,7 @@ This section query the sales in August and September 2014
 =QUERY(A1:H44,"SELECT E,F,H WHERE (C='Aug', OR C='Sep') AND F=2014", 1)
 ```
 ## Result
-![Download here](Table4.JPG)
+![](Table4.JPG)
 
 ---
 
@@ -66,7 +66,7 @@ This section query the sales of items that start with Pen, include their region,
 =QUERY(A1:H44,"SELECT A,B,C,F,H WHERE C LIKE 'Pen%'", 1)
 ```
 ## Result
-![Download here](Table5.JPG)
+![](Table5.JPG)
 
 ---
 
@@ -77,6 +77,6 @@ This section query the sales of items that end with ‘sk’, include their regi
 =QUERY(A1:H44,"SELECT A,B,C,F,H WHERE C LIKE '%sk'", 1)
 ```
 ## Result
-![Download here](Table6.JPG)
+![](Table6.JPG)
 
 ---
