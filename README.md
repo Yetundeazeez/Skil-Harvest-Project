@@ -10,11 +10,12 @@
 - [Query 4](#Query-4)
 - [Query 5](#Query-5)
 - [Query 6](#Query-6)
-- [Tools used](#Tools-Used)
+- [Tools Used](#Tools-Used)
 
 ---
 
 ## Project Overview
+This project used the query function to manipulate the dataset
 
 ---
 ## Dataset
