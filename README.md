@@ -1,19 +1,23 @@
 # Google Query Project
-This project was done using Google sheet and the dataset used can be downloaded 
-[here](https://drive.google.com/file/d/1sBnniRB8LApHtMCEED0_rf3mLA0Abrtf/view?usp=drivesdk)
-
-
+This project was done using Google sheet 
 ---
 
 ## **Project Outline**
 
+- [Dataset](Dataset)
 - [Query 1](#Query-1)
 - [Query 2](#Query-2)
 - [Query 3](#Query-3)
 - [Query 4](#Query-4)
 - [Query 5](#Query-5)
 - [Query 6](#Query-6)
-   
+- [Tools-used](Tools-used)
+
+---
+## Dataset
+The dataset used can be downloaded 
+[here](https://drive.google.com/file/d/1sBnniRB8LApHtMCEED0_rf3mLA0Abrtf/view?usp=drivesdk)
+
 ---
 
 ## Query 1
@@ -33,7 +37,9 @@ This section query the sales of binder items and pencil in 2015
 
 ```
 =QUERY(A1:H44,"SELECT C,F,H WHERE (C='Pencil', OR C='Binder') AND F=2015", 1)
+
 ```
+
 ## Result
 ![](Table2.JPG)
 
@@ -80,5 +86,11 @@ This section query the sales of items that end with ‘sk’, include their regi
 ```
 ## Result
 ![](Table6.JPG)
+
+---
+
+## Tools used
+
+This project was done using Google Sheet
 
 ---
