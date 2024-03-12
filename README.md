@@ -1,5 +1,5 @@
 # Google Query Project
-This project was done using Google sheet
+This project was done using Google sheet and the dataset used can be downloaded ![here](SkilHarvest-Stationary-Supplies.csv)
 
 ---
 
