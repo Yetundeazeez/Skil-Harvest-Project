@@ -1,6 +1,6 @@
 # Google Query Project
 This project was done using Google sheet and the dataset used can be downloaded 
-![here](https://drive.google.com/file/d/1sBnniRB8LApHtMCEED0_rf3mLA0Abrtf/view?usp=drivesdk)
+[here](https://drive.google.com/file/d/1sBnniRB8LApHtMCEED0_rf3mLA0Abrtf/view?usp=drivesdk)
 
 
 ---
